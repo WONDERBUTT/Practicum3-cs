@@ -1,0 +1,11 @@
+D:\Documents\Русаков\practica3\practica3\bin\Debug\netcoreapp3.1\practica3.exe
+D:\Documents\Русаков\practica3\practica3\bin\Debug\netcoreapp3.1\practica3.deps.json
+D:\Documents\Русаков\practica3\practica3\bin\Debug\netcoreapp3.1\practica3.runtimeconfig.json
+D:\Documents\Русаков\practica3\practica3\bin\Debug\netcoreapp3.1\practica3.runtimeconfig.dev.json
+D:\Documents\Русаков\practica3\practica3\bin\Debug\netcoreapp3.1\practica3.dll
+D:\Documents\Русаков\practica3\practica3\bin\Debug\netcoreapp3.1\practica3.pdb
+D:\Documents\Русаков\practica3\practica3\obj\Debug\netcoreapp3.1\practica3.csprojAssemblyReference.cache
+D:\Documents\Русаков\practica3\practica3\obj\Debug\netcoreapp3.1\practica3.AssemblyInfoInputs.cache
+D:\Documents\Русаков\practica3\practica3\obj\Debug\netcoreapp3.1\practica3.AssemblyInfo.cs
+D:\Documents\Русаков\practica3\practica3\obj\Debug\netcoreapp3.1\practica3.dll
+D:\Documents\Русаков\practica3\practica3\obj\Debug\netcoreapp3.1\practica3.pdb
