@@ -1,5 +1,0 @@
-D:\Documents\Русаков\ПРАКТИКИ\Практика 3\файлы\Lesson1-Exercise1-CS\Lesson1-Exercise1-CS\bin\Debug\Lesson1-Exercise1-CS.exe
-D:\Documents\Русаков\ПРАКТИКИ\Практика 3\файлы\Lesson1-Exercise1-CS\Lesson1-Exercise1-CS\bin\Debug\Lesson1-Exercise1-CS.pdb
-D:\Documents\Русаков\ПРАКТИКИ\Практика 3\файлы\Lesson1-Exercise1-CS\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.csprojAssemblyReference.cache
-D:\Documents\Русаков\ПРАКТИКИ\Практика 3\файлы\Lesson1-Exercise1-CS\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.exe
-D:\Documents\Русаков\ПРАКТИКИ\Практика 3\файлы\Lesson1-Exercise1-CS\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.pdb
